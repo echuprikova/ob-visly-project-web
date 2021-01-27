@@ -17,5 +17,7 @@ advanced:
   css_class:
 ---
 ### Ontology-based Visual Analytics for Agriculture
+
+
 The EU-funded OB-VISLY project will exploit advances in data visualization and analytics to provide insight into complex datasets.
 

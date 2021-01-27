@@ -18,7 +18,6 @@ headless: false
 # Order that this section appears on the page.
 weight: 30
 ---
-### Ontology-based Visual Analytics for Agriculture
 OB-VISLY aims to build a human-centered approach to Big Data acquired from agricultural monitoring (in
 particular apple orchards and vineyards) by developing ontology-based visual analytics. OB-VISLY will be
 designed as an interactive visual analytics system enabled to answer "what" and "why" about fruit-growing
