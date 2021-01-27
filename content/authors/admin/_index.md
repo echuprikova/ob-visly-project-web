@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigators
 ---
 
 Ekaterina Chuprikova received a BSc degree in Cartography from St. Petersburg State University in 2010 and worked in the development of navigation software and maps. In 2014 she graduated from the International Master Program in Cartography taught by the four cooperating Universities TU Munich, TU Vienna, TU Dresden, and the University of Twente. While working for the Institute for Earth Observation, EURAC Research (Bolzano, Italy) (February 2014 - May 2015), she dealt with the Earth Observation metadata and WebGIS development. From June 2015, she worked as Research Associate at the Technical University of Munich and obtained her Ph.D. degree at the Department of Civil, Geo and Environmental Engineering, Chair of Cartography. She researched geospatial data modeling and visualization within two international projects in partnership with the National Geomatics Center of China and Jiangsu Industry Technology Research Institute. In 2020 she received a Marie Curie Individual Fellowship and started her Postdoctoral research at the Center of Sensing Solutions, EURAC. The EU-funded project will exploit advances in data visualization and analytics to provide insight into complex datasets from local fruit-growing apple orchards and vineyards to create a single visual analytics user interface that can turn the obtained data into knowledge.
