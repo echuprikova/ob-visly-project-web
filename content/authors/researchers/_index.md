@@ -7,7 +7,7 @@ cascade:
     list: never
 ---
 # Display name
-title: Abraham
+title: 
 
 # Username (this should match the folder name)
 authors:
