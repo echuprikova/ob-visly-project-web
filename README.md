@@ -12,7 +12,7 @@ OB-VISLY aims at applying cross-disciplinary methods in collaboration with regio
 ## Study area
 The partner of this study, Laimburg Research Center, kindly provides the dataset about Apple Variety Testing Program
 
-(./preview.png)
+![Screenshot](./preview.png)
 
 ## Objectives
 OB-VISLY aims to (1) establish a regionally significant dataspace enabled to synthesize information about fruit-growing apple orchards and vineyards and derive insight from massive, dynamic, and often conflicting data by providing up-to-date, consistent, and credible assessments; (2) create a single visual analytics user interface thatcan turn the data into knowledge for users of different information retrieval proficiency. 
