@@ -25,9 +25,9 @@ abstract: This study extends the visual analytics approach with a structural way
 # Summary. An optional shortened abstract.
 summary: 
 
-#tags:
-#- Source Themes
-#featured: true
+tags:
+- Source Themes
+featured: true
 
 links:
 - name: Zenodo
