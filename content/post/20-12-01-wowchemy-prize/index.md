@@ -1,9 +1,23 @@
 ---
-title: Hello World from OB-VISLY
+title: OB-VISLY project has been officially launched!
+
 date: 2020-10-05
 ---
-The OB-VISLY project has been officially launched
+
+The project aims at applying cross-disciplinary methods in collaboration with regional (Laimburg Research, UniBZ) and international partners (MISTEA Montpellier SupAgro, INRA (secondment); Wageningen (U&R).
+
 
 <!--more-->
 
-The OB-VISLY project has been officially launched
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'vPICO presentation on EGU 2021'
+  focal_point: ""
+  preview_only: false
+
+Increasing challenges for agricultural production such as climate change, environmental concerns, energy demands, and growing expectations from consumers triggered the necessity for innovation using data-driven approaches such as visual analytics. OB-VISLY extends the visual analytics approach with a structural way of data organization (ontologies), data mining, and visualization techniques to retrieve knowledge from the agricultural monitoring data.
+
+OB-VISLY will establish and implement regionally innovative visual analytics-enabled interface for the fruit-growing apple orchards and vineyards in South Tyrol.
+
+
