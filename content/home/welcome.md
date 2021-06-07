@@ -5,19 +5,17 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
+weight: 5  # Order that this section will appear.
 title: ""
-subtitle: ""
-hero_media: welcome.jpg
+subtitle: "Ontology-based Visual Analytics for Agriculture"
+hero_media: logo.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
 advanced:
   css_style:
   css_class:
 ---
-### Ontology-based Visual Analytics for Agriculture
+#### Ontology-based Visual Analytics for Agriculture
 
-
-The EU-funded OB-VISLY project will exploit advances in data visualization and analytics to provide insight into complex datasets.
-
+###### The EU-funded OB-VISLY project exploits advances in data integration using ontology, data analytics and visulization and analytics providings insight into apple variety testing data.
