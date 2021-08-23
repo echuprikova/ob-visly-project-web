@@ -1,5 +1,7 @@
 # Abstract
 
+Web: https://www.ob-visly.com/
+
 Increasing challenges for agricultural production such as climate change, environmental concerns, energy demands, and growing expectations from consumers triggered the necessity for innovation using data-driven approaches such as visual analytics. OB-VISLY extends the visual analytics approach with a structural way of data organization (ontologies), data mining, and visualization techniques to retrieve knowledge from the agricultural monitoring data. The latest advances in data visualization and analytics made it possible to fully exploit the potential of the proposed approach and gain insights into high complexity datasets (multi-source, multi-scale, and different stages). 
 
 In **OB-VISLY** (EU funded MSCA-IF), I will carry out state-of-the-art research that unites two strands of recent, significant inquiry: Big Data analytics in the agricultural sector and visual methods. 
