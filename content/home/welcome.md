@@ -18,4 +18,4 @@ advanced:
 ---
 #### Ontology-based Visual Analytics for Agriculture
 
-###### The EU-funded OB-VISLY project exploits advances in data integration using ontology, data analytics and visulization and analytics providings insight into apple variety testing data.
+###### The EU-funded OB-VISLY project exploits advances in data integration using ontology, data analytics, and visualization, providing insights into apple variety testing data.
